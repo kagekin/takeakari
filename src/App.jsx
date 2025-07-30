@@ -621,7 +621,7 @@ function App() {
                 <strong>NEO四国88祭</strong>
               </p>
               <p className="text-gray-600 mb-6">
-                お問合せは100万人DAO LINEオープンチャットまで
+                お問い合わせは琴平コミュニティグループへ参加オープンチャットまで！
               </p>
               <Button
                 onClick={() => handleSignUp('https://line.me/ti/g2/7fGmNaUwXRuLF-VSLMzTfRB6RpywqQ8io0QD4w?utm_source=invitation&utm_medium=link_copy&utm_campaign=default', 'LINEオープンチャット')}
