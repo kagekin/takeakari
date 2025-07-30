@@ -37,9 +37,9 @@ function App() {
     },
     {
       id: 3,
-      title: 'MILLION MEMBER DAO LINEオープンチャットへ参加',
-      description: '事前の準備や当日お困りのことがあればこちらのオープンチャットでご相談ください！',
-      url: 'https://line.me/ti/g2/N5-AOT7ixEaCEiYwIOsQtOTDug3bTBc6bdfR7Q?utm_source=invitation&utm_medium=QR_code&utm_campaign=default',
+      title: '「#好きがコトひらく町」琴平コミュニティグループへ参加',
+      description: 'お問合せは「#好きがコトひらく町」琴平コミュニティグループまで',
+      url: 'https://line.me/ti/g2/7fGmNaUwXRuLF-VSLMzTfRB6RpywqQ8io0QD4w?utm_source=invitation&utm_medium=link_copy&utm_campaign=default',
       icon: <Users className="w-6 h-6" />,
       color: 'bg-gradient-to-br from-green-500 to-emerald-500',
       hoverColor: 'hover:from-green-600 hover:to-emerald-600'
@@ -231,8 +231,8 @@ function App() {
               <div className="flex items-start gap-4 mb-6">
                 <Users className="w-6 h-6 text-green-600 mt-1" />
                 <div>
-                  <p className="text-gray-700 mb-2">MILLION MEMBER DAO LINEオープンチャットへ参加</p>
-                  <p className="text-sm text-gray-600">事前の準備や当日お困りのことがあればこちらのオープンチャットでご相談ください！</p>
+                  <p className="text-gray-700 mb-2">「#好きがコトひらく町」琴平コミュニティグループへ参加</p>
+                  <p className="text-sm text-gray-600">お問合せは「#好きがコトひらく町」琴平コミュニティグループまで</p>
                 </div>
               </div>
               <Button
@@ -624,7 +624,7 @@ function App() {
                 お問合せは100万人DAO LINEオープンチャットまで
               </p>
               <Button
-                onClick={() => handleSignUp('https://line.me/ti/g2/N5-AOT7ixEaCEiYwIOsQtOTDug3bTBc6bdfR7Q?utm_source=invitation&utm_medium=QR_code&utm_campaign=default', 'LINEオープンチャット')}
+                onClick={() => handleSignUp('https://line.me/ti/g2/7fGmNaUwXRuLF-VSLMzTfRB6RpywqQ8io0QD4w?utm_source=invitation&utm_medium=link_copy&utm_campaign=default', 'LINEオープンチャット')}
                 className="bg-gradient-to-r from-green-500 to-emerald-500 hover:from-green-600 hover:to-emerald-600 text-white font-semibold py-3 px-8 rounded-lg shadow-lg hover:shadow-xl transition-all duration-300 transform hover:scale-105 border-0"
               >
                 <span className="flex items-center justify-center gap-2">
